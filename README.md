@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá! Seja bem-vindo(a) ao meu GitHub! 👋
 
-<!--
-**juliana-gomes-dev/juliana-gomes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou bacharel em Ciências Contábeis e estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira para a área de tecnologia.
 
-Here are some ideas to get you started:
+Atualmente, estou desenvolvendo meus conhecimentos em lógica de programação, JavaScript, HTML e CSS, com foco em desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formação
+
+- Bacharelado em Ciências Contábeis
+- Tecnólogo em Análise e Desenvolvimento de Sistemas (em andamento)
+
+## 💻 Tecnologias em estudo
+
+- JavaScript
+- HTML
+- CSS
+- Git e GitHub
+
+## 🚀 Projetos publicados
+
+**Cardápio**
+- [Acessar site](https://juliana-gomes-dev.github.io/cardapio-dstasty/)
+- [Ver código-fonte](https://github.com/juliana-gomes-dev/cardapio-dstasty)
+
+**Portfolio**
+- [Acessar site](https://juliana-gomes-dev.github.io/portfolio/)
+- [Ver código-fonte](https://github.com/juliana-gomes-dev/portfolio)
+
+## 🎯 Objetivo profissional
+
+Ingressar na área de tecnologia, adquirir experiência prática e continuar aprendendo e evoluindo profissionalmente.
