@@ -6,8 +6,9 @@ Atualmente, estou desenvolvendo meus conhecimentos em lógica de programação, 
 
 ## 🎓 Formação
 
-- Bacharelado em Ciências Contábeis
 - Tecnólogo em Análise e Desenvolvimento de Sistemas (em andamento)
+- Bacharelado em Ciências Contábeis
+
 
 ## 💻 Tecnologias em estudo
 
