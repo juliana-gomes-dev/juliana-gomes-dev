@@ -14,7 +14,6 @@ Atualmente, estou desenvolvendo meus conhecimentos em lógica de programação, 
 - JavaScript
 - HTML
 - CSS
-- Git e GitHub
 
 ## 🚀 Projetos publicados
 
